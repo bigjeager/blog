@@ -1,0 +1,4 @@
+[submodule "bigjeager/public"]
+	path = bigjeager/public
+	url = https://github.com/bigjeager/bigjeager.github.io.git
+	branch = main

@@ -1,0 +1,4 @@
+baseURL = 'https://bigjeager.github.io/'
+languageCode = 'en-us'
+title = 'BigJeager'
+theme = 'hugo-PaperMod'
